@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "backend": "ibm_fez",
+    "timestamp_utc": "2026-11-06T23:01:58Z",
+    "physical_qubit": 0,
+    "shots_per_circuit": 1024,
+    "python": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+    "numpy": "2.5.4",
+    "t1_seconds": 5.0890279593145256e-05,
+    "t2_seconds": 5.4494178457869146e-05,
+    "frequency_hz": null,
+    "last_calibration_datetime": "2026-11-06 22:22:38+00:00",
+    "readout_error": [
+      0.02099609375,
+      "2026-11-06 01:47:17+00:00"
+    ],
+    "prob_meas0_prep1": [
+      0.033203125,
+      "2026-11-06 01:47:09+00:00"
+    ],
+    "prob_meas1_prep0": [
+      0.0087890625,
+      "2026-11-06 01:47:13+00:00"
+    ]
+  },
+  "experiment_parameters": {
+    "target_sequence_type": "100_gate_non_identity",
+    "shots": 1024,
+    "optimization_level": 0
+  },
+  "job_ids": {
+    "characterisation_job_id": "dbn5p1gou4as73b3u0d0",
+    "validation_job_id": "dbn5pidt7fqc73aj00jg"
+  },
+  "results": {
+    "D2_raw": 0.22150416904025608,
+    "D2_corrected": 0.03287942674424916,
+    "empirical_delta_D2": 0.18862474229600693
+  }
+}
